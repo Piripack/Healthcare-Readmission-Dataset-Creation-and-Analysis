@@ -5,6 +5,17 @@ The goal of this project was to **create a realistic healthcare dataset** to pre
 
 ---
 
+## Libraries Used
+This project utilizes several Python libraries for data manipulation, visualization, and model building:
+
+- **pandas** – For data manipulation and analysis.
+- **numpy** – For numerical operations and handling arrays.
+- **matplotlib** – For creating visualizations like charts and graphs.
+- **seaborn** – For advanced visualizations and statistical plots.
+- **sklearn** – For machine learning, including data scaling, model building, and evaluation metrics.
+  
+---
+
 ## Steps Taken
 
 ### 1. **Data Creation**
